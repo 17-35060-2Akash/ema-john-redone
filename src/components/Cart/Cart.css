@@ -1,0 +1,14 @@
+.cart-details {
+    text-align: start;
+    margin-left: 28px;
+    position: sticky;
+    top: 0;
+
+}
+
+.cart-title {
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 50px;
+
+}
